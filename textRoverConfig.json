@@ -1,0 +1,17 @@
+{
+    "interactiveMode": false,
+    "searchFolder": "~/Documents/sites/site_two",
+    "searchPattern": "CFDUMP",
+    "isRegex": false,
+    "caseSensitive": false,
+    "fileExtensions": [".php"],
+    "action": "display",
+    "outputFile": "~/Documents/script/textRover/searchResults.txt",
+    "outputFileOption": true,
+    "replaceWith": "",
+    "replaceLine": "",
+    "dryRun": true,
+    "createBackup": true,
+    "backupExtension": ".bak",
+    "backupFolder": ""
+}
